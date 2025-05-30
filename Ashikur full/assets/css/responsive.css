@@ -1,0 +1,171 @@
+@media (max-width: 991px) {
+  #nav {
+    padding: 13px 0;
+    box-shadow: 3px 3px 30px #0000001e;
+  }
+
+  #nav .navbarr-toggler {
+    border: none;
+    background-color: transparent;
+    outline: none;
+  }
+
+  #offcanvasRight ul li {
+    padding: 10px 0;
+  }
+
+
+  #banner .container {
+    padding: 30px;
+    text-align: center;
+  }
+
+  #banner .container .conteins {
+    padding: 30px;
+  }
+
+  #banner .container .conteins h1 {
+    font-size: 45px;
+  }
+
+
+  #banner .banner-link a:last-child {
+    margin-left: 0;
+    margin-top: 15px;
+  }
+
+  #banner .follow {
+
+    margin-top: 20px;
+
+  }
+
+
+  #about .shape img {
+    position: absolute;
+    right: 5%;
+    top: 0;
+    transform: rotate(180deg);
+    height: 100px;
+  }
+
+
+  #card .card_box {
+    width: calc(100% - 32px);
+  }
+
+  #branding .shape {
+    display: none;
+  }
+
+  #help .content h4 {
+    text-align: center;
+    width: 100%;
+  }
+
+  #help .content p {
+    text-align: center;
+  }
+
+
+
+  #experience .row .details {
+    padding-bottom: 40px;
+  }
+
+  #experience .container .row {
+    padding-left: 46px;
+    position: relative;
+  }
+
+  #experience .container .row::before {
+    content: '';
+    position: absolute;
+    top: -29px;
+    left: 24px;
+    width: 2px;
+    height: 100%;
+    border-left: 2px dashed #7a7a7a;
+  }
+
+  #experience .title::before {
+    left: -42px;
+    top: -32px;
+  }
+
+  #experience .title::after {
+    left: -31px;
+    top: -21px;
+  }
+
+
+  #experience .title_1::before {
+    left: -42px;
+    top: -32px;
+  }
+
+  #experience .title_1::after {
+    left: -31px;
+    top: -21px;
+  }
+
+
+  #experience .title_2::before {
+    left: -42px;
+    top: -32px;
+  }
+
+  #experience .title_2::after {
+    left: -31px;
+    top: -21px;
+  }
+
+  #experience .line {
+    display: none;
+  }
+
+  #experience .title {
+    padding-bottom: 50px;
+  }
+
+  #skills .conteins {
+    text-align: center;
+  }
+
+  #skills .prog-bar {
+    padding-top: 40px;
+  }
+
+  #skills .edu {
+    padding: 16px 40px;
+  }
+
+
+  #service .card_sarve {
+    margin-top: 10px;
+    text-align: center;
+  }
+
+  #service .card_sarve:nth-child(1) {
+    margin-bottom: 40px;
+  }
+
+  #service .card_sarve:nth-child(2) {
+    background: #fff;
+    padding-top: 10px;
+    margin: 20px;
+  }
+#value{
+  margin-top: 20px;
+}
+  #value .conteins {
+    text-align: center;
+}
+#value .image img{
+  text-align: center;
+
+}
+
+
+
+}
